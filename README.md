@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Hamed, a Computer Science student at Qatar University with a strong <br>interest in full-stack development. I enjoy building practical, user-focused <br>applications from the ground up — from crafting intuitive frontends to <br>developing secure and scalable backends.<br><br>What I enjoy working with:<br><br>- Full-stack web projects using technologies like Java, Spring Boot, Django, Next.js, and MySQL<br><br>- Authentication systems, REST APIs, and responsive UI design<br><br>- Exploring new tools, frameworks, and best practices in software development<br>
+Hi, I'm Hamed, a Computer Science student at Qatar University with a strong <br>interest in full-stack development. I enjoy building practical, user-focused <br>applications from the ground up — from crafting intuitive frontends to <br>developing secure and scalable backends.<br><br>What I enjoy working with:<br><br>- Full-stack web projects using technologies like Java, Next.js, and MySQL<br><br>-  REST APIs and responsive UI design<br><br>- Exploring new tools, frameworks, and best practices in software development<br>
 
 
 ## 🌐 Socials:
